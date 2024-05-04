@@ -91,14 +91,32 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 `````
 
 ## Output:
-![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145049988/d56abad8-a015-4f96-b41a-1004fb622d2b)
-![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145049988/a95b0bbc-51f7-4572-8be6-4318bf45d106)
-![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145049988/000b1d68-fe35-4c58-9a19-d2fec2ae90b4)
-![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145049988/47de1c51-1df9-46e6-9edb-00631089ba72)
-![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145049988/77555fdb-d602-4e09-bf6b-03e5bd9c2e2f)
-![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145049988/22b3c9f4-3279-4449-a31c-c2e7bd4b192f)
-![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145049988/99849322-f423-495a-9018-66665f637ce9)
-![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145049988/7d606de6-6434-4cf3-a448-433e4b588ebb)
+## Output:
+### Head 
+![image](https://github.com/Madhavareddy09/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145742470/6a256453-451f-4171-935a-1db371002b68)
+### After removing sl_no , salary
+![image](https://github.com/Madhavareddy09/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145742470/d8680a74-fcac-486b-b508-92761e5ec9e1)
+### Null data 
+![image](https://github.com/Madhavareddy09/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145742470/a7dbeeea-8de8-46a7-bf20-f59980fbd9f5)
+### Duplicated sum
+![image](https://github.com/Madhavareddy09/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145742470/c7fb3459-228a-4aab-a6ef-0edc6923ef42)
+### Label Encoder
+![image](https://github.com/Madhavareddy09/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145742470/659547bc-8cfe-4d89-b906-169e516c3645)
+### After removing the last column
+![image](https://github.com/Madhavareddy09/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145742470/3ae6ad4d-7629-4d51-b6f6-bf90f174d587)
+### Displaying the status
+![image](https://github.com/Madhavareddy09/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145742470/78a45b96-783a-42c4-956d-74b01612de73)
+### Prediction of y
+![image](https://github.com/Madhavareddy09/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145742470/5effafab-09db-4613-9102-e34812e71e71)
+### Accuracy score
+![image](https://github.com/Madhavareddy09/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145742470/d21a9da9-5df9-4f77-948d-21e545edd318)
+### Confusion 
+![image](https://github.com/Madhavareddy09/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145742470/4c888ccd-e65d-43df-9fcd-0ef304b2e376)
+### Classification report
+![image](https://github.com/Madhavareddy09/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145742470/b0db5fc0-87ac-4448-a893-6ff1a2d51100)
+### Prediction
+![image](https://github.com/Madhavareddy09/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145742470/35b841aa-992a-4eda-a43c-4f982e82daa1)
+
 
 
 
